@@ -14,21 +14,14 @@ chatbot_project/
 │   ├── components/
 │   │   └── Chatbot.jsx  # Chatbot component
 │   ├── pages/
-│   │   ├── index.jsx    # Sample React page
-│   │   └── example.mdx  # MDX example using the chatbot
-│   └── App.js           # Main React entry point (optional)
-├── public/
-│   └── index.html       # Base HTML (optional)
+│       ├── index.jsx    # Sample React page
+│       └── example.mdx  # MDX example using the chatbot
 └── README.md
 ```
 
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/chatbot-mdx.git
-cd chatbot-mdx
-```
 
 ### 2. Install Dependencies
 Ensure you have Node.js and npm installed.
@@ -57,4 +50,4 @@ npm run dev
 ```
 
 ## 📧 Contact
-For questions or feedback, reach out! 😊
+For questions, add-on ideas or feedback, feel free to reach out! 😊
