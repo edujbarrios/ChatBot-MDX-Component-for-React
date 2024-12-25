@@ -49,5 +49,15 @@ Run the development server and navigate to the homepage or `/example` to test th
 npm run dev
 ```
 
+## 💡 Why I Built This  
+- I wanted to create something simple to integrate into React and MDX projects.  
+- It’s a great way to enhance user engagement by providing immediate, simulated responses.  
+- The component is lightweight and easy to customize for different projects.  
+
+## 🔮 What I'm Planning Next  
+- I plan to integrate dynamic API calls for real AI responses.  
+- Multi-language support is on my roadmap.  
+- I’m also thinking about adding persistent chat history with recent questions asked by the users that visits a webpage
+
 ## 📧 Contact
 For questions, add-on ideas or feedback, feel free to reach out! 😊
